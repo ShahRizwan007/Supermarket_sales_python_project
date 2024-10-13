@@ -24,8 +24,9 @@ The Supermarket Sales Data Analysis focuses on various aspects of the supermarke
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **IDE:** Jupyter Notebook
 
-**dataset link**:[Supermarket Sales Dataset][(https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/supermarket_sales.csv)]
-**Linkedin post**:https://www.linkedin.com/feed/update/urn:li:activity:7243597460105814016/
+**dataset link**:[Supermarket Sales Dataset][(https://github.com/ShahRizwan007/SQl_project_ShahRizwan007-SQL_PROJECT_Danny_Diner/blob/main/supermarket_sales.csv)]  
+
+**Linkedin post**:[https://www.linkedin.com/feed/update/urn:li:activity:7243597460105814016/](https://www.linkedin.com/feed/update/urn:li:activity:7238161683590856704/)
 
 follow me on github and linkedin for more useful data analyst project
 
